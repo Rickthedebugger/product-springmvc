@@ -12,8 +12,9 @@
 </head>
 <body>
 
-
-	<form>
+	
+	<form style="width:30%;padding:30px; position:relative;top:200px;left:500px;" class="bg-light">
+		<h1 style="font-size:24px">Signup</h1>
 		<div class="form-group">
 			<label for="name">Name</label> <input
 				type="text" class="form-control" id="name"
